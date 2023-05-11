@@ -6,4 +6,4 @@
 | Title | Author | Journal | Keyword |
 | ------------ | ------------- | ------------- | ------------- |
 | An alternative framework to Lagrangian relaxation approach for job shop scheduling | Haoxun Chen ,Peter B. Luh  | European Journal of Operational Research | Scheduling |
-| Advances in natural language processing | Content Cell  | Science | NLP |
+| Advances in natural language processing |  Julia Hirschberg, Christopher D. Manning  | Science | NLP |
